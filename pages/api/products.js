@@ -4,7 +4,8 @@ import fetch from 'node-fetch';
 
 export default async function handler(req, res) {
   try {
-    const response = await fetch('https://raw.githubusercontent.com/Alex70Diaz/ProductosFotos/blob/main/data/products.json');
+    const response = await fetch('https://raw.githubusercontent.com/Alex70Diaz/ProductosFotos/main/data/products.json');
+    // https://raw.githubusercontent.com/DanielQuilcue/E-Commerce-JeanGenius/main/public/data/products.json
     const data = await response.json();
     res.status(200).json(data);
   } catch (error) {

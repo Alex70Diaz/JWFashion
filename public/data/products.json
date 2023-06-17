@@ -366,13 +366,4 @@
     "image": "/products/60107.png",
     "price": 65000
   }
-  ,{
-    "id": 46,
-    "name": "Jeans",
-    "gender": "Mujer",
-    "category": "Jeans",
-    "reference": 60108,
-    "image": "/products/60108.jpg",
-    "price": 65000
-  }
 ]

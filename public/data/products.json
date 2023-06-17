@@ -346,7 +346,7 @@
     "name": "Chaqueta Just Love Pedreria",
     "gender": "Mujer",
     "category": "Chaqueta",
-    "reference": 23164,
+    "reference": 20029,
     "image": "/products/ChaquetaLove.jpg",
     "price": 65000
   },{
@@ -364,6 +364,15 @@
     "category": "Jeans",
     "reference": 60107,
     "image": "/products/60107.png",
+    "price": 65000
+  }
+  ,{
+    "id": 46,
+    "name": "Jeans",
+    "gender": "Mujer",
+    "category": "Jeans",
+    "reference": 60108,
+    "image": "/products/60108.jpg",
     "price": 65000
   }
 ]
